@@ -1,0 +1,10 @@
+C:\Users\Antor\source\repos\calcuTwo\calcuTwo\bin\Debug\calcuTwo.exe.config
+C:\Users\Antor\source\repos\calcuTwo\calcuTwo\bin\Debug\calcuTwo.exe
+C:\Users\Antor\source\repos\calcuTwo\calcuTwo\bin\Debug\calcuTwo.pdb
+C:\Users\Antor\source\repos\calcuTwo\calcuTwo\obj\Debug\calcuTwo.csprojAssemblyReference.cache
+C:\Users\Antor\source\repos\calcuTwo\calcuTwo\obj\Debug\calcuTwo.Form1.resources
+C:\Users\Antor\source\repos\calcuTwo\calcuTwo\obj\Debug\calcuTwo.Properties.Resources.resources
+C:\Users\Antor\source\repos\calcuTwo\calcuTwo\obj\Debug\calcuTwo.csproj.GenerateResource.cache
+C:\Users\Antor\source\repos\calcuTwo\calcuTwo\obj\Debug\calcuTwo.csproj.CoreCompileInputs.cache
+C:\Users\Antor\source\repos\calcuTwo\calcuTwo\obj\Debug\calcuTwo.exe
+C:\Users\Antor\source\repos\calcuTwo\calcuTwo\obj\Debug\calcuTwo.pdb
